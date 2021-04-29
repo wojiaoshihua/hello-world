@@ -6,4 +6,4 @@
 
 ### 	In this repository, I will write some classical algorithms in it.
 
-[Dynamic programming](/Dynamic programming.md)
+[Dynamic programming](/Dynamic%20programming.md)
