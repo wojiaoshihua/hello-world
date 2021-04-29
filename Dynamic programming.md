@@ -84,5 +84,5 @@ for(j=1; j<=m; j=j+1) // the first stage
 
 
 
-[README.md](/READEME.md)
+[README](/README.md)
 
